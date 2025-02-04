@@ -15,7 +15,7 @@ Learned Java basic concepts.<br>
 Practiced Java syntax for a better understanding of the language.</p>
 <h1> </h1>
 
-<p><strong>22-Jan-202025</strong><br>
+<p><strong>22-Jan-2025</strong><br>
 Covered Java fundamentals and basic syntax.<br>
 Solved an assignment based on Java basics.<br>
 Learned Git branching and how to manipulate GitHub data using Git and Git Bash.<br>
